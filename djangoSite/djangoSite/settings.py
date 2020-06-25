@@ -150,6 +150,7 @@ INSTALLED_APPS = [
 
     # project
     "djangoSite",
+    "notifications",
 ]
 
 WEBPACK_LOADER = {
