@@ -1,2 +1,3 @@
-/djangoSite/djangoSite
+/djangoSite/djangoSite/db.sqlite3
+/djangoSite/djangoSite/settings.py
 Pipfile.lock
